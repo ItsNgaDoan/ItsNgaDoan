@@ -11,4 +11,5 @@ I’m passionate about learning fast, solving real-world problems, and building 
 ---
 
 🔗 You can explore more of my work here:  **[https://itsngadoan.github.io](https://itsngadoan.github.io)**
+
 A collection of my work in data analytics, supply chain, and process improvement.
